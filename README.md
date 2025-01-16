@@ -9,10 +9,8 @@
 - Scalable architecture for handling dynamic loads.
 - User-friendly interface for monitoring and management.
 
-## 🏗️ Technologies Used
-- **Programming Languages:** [Add languages, e.g., Python, Java, etc.]
-- **Frameworks/Libraries:** [Add relevant frameworks or libraries]
-- **Tools:** [Specify tools or platforms used]
+## 🏗️ Software Used
+- **Cisco Packet Tracer**
 
 ## 🚀 Installation
 1. Download the repository:
